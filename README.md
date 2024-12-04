@@ -1,5 +1,5 @@
 # Create-Responsive-Navigation-Bar
-## [Live Preview](https://youtu.be/k-jwXwpNuXI)
+## [Live Preview](https://amanayak.github.io/Create-Responsive-Navigation-Bar/)
 ### Responsive Navigation Bar
 
 - Responsive Navigation Bar Using HTML CSS & JavaScript
